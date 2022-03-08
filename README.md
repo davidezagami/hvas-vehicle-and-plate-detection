@@ -4,7 +4,7 @@
 
 ## Hora Video Analytic System
 
-Try all the models at [app.horavision.ai](https://app.horavision.ai) by making a free account. See [here](https://github.com/davide-zagami/hvas) for how to use the platform or the API.
+Try all the models at [app.horavision.ai](https://app.horavision.ai) by making a free account. See [here](https://github.com/davidezagami/hvas) for how to use the platform or the API.
 
 Vehicle and registration plate recognition models in Python using neural network architectures including Yolo and EfficientNet, as well as various features such as vehicle color and make.
 
